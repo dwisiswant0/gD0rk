@@ -20,6 +20,10 @@ And install it with [composer](https://getcomposer.org/download/):
 $ composer install
 ```
 
+## Recommended PHP Version:
+gD0rk required **PHP 5+**, and currently tested on **PHP 7.0.23-1** *(CLI)*.
+
+
 # Usage
 ```
 $ php gd0rk.php -d "inurl:index.php?id= ext:php" -p "127.0.0.1:9050"
