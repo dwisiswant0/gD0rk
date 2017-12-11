@@ -1,0 +1,16 @@
+{
+	"name": "dwisiswant0/gD0rk",
+	"description": "Google Hack Database dork automatic tool",
+	"keywords": ["google", "scraping", "dorking"],
+	"license": "MIT",
+	"authors": [{
+		"name": "Dwi Siswanto",
+		"email": "dwi.siswanto98@gmail.com"
+	}],
+	
+    "require": {
+    	"mwhite/random-uagent": "dev-master"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
